@@ -67,4 +67,5 @@ output "alb_dns_name" {
 
 
 
-![Capstone-diagram](https://github.com/kopamak990/capstone-project/assets/166510192/16796b12-844c-4ab9-98d7-2df1bb15553f)
+![Capstone-diagram](https://github.com/kopamak990/capstone-project/assets/166510192/641d4bd8-c21f-46a4-be04-a215ce32fb35)
+
