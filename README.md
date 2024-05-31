@@ -64,3 +64,7 @@ Copy code
 output "alb_dns_name" {
   value = aws_lb.wordpress_lb.dns_name
 }
+
+
+
+![Capstone-diagram](https://github.com/kopamak990/capstone-project/assets/166510192/16796b12-844c-4ab9-98d7-2df1bb15553f)
