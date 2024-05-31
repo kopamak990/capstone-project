@@ -1,3 +1,9 @@
+
+![Capstone-diagram](https://github.com/kopamak990/capstone-project/assets/166510192/5b06b610-3918-4da0-b6e9-b2124904fa5a)
+
+
+
+
 # AWS Infrastructure for WordPress with RDS Aurora
 
 This repository contains a Terraform template to set up a scalable and secure infrastructure on AWS for hosting WordPress with an RDS Aurora database.
@@ -67,5 +73,5 @@ output "alb_dns_name" {
 
 
 
-![Capstone-diagram](https://github.com/kopamak990/capstone-project/assets/166510192/641d4bd8-c21f-46a4-be04-a215ce32fb35)
+
 
